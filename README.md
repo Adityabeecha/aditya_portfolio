@@ -1,80 +1,105 @@
-# 📊 Data Analyst Portfolio – [Your Name]
+# Data Analyst Portfolio – Aditya Beecha
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
-
----
-
-## 👤 Profile Summary
-
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
+Hi, I'm Aditya Beecha. I focus on building practical, insight-driven solutions through machine learning models, analytical dashboards, automation, and business intelligence. My work emphasizes transforming raw datasets into clear, actionable insights.
 
 ---
 
-## 🧠 Skills
-
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
+## About Me
+I am an MBA student specializing in Information Technology with a strong interest in data analytics, machine learning, and business intelligence. I enjoy solving business problems using structured analytical approaches, visualization, and end-to-end model development.
 
 ---
 
-## 💼 Professional Experience
+## Technical Skills
 
-**[Company Name], [Location] — [Position]**  
-*Time Period*
+**Data & Analytics:**  
+SQL, Python, Excel (Advanced), Power BI, Tableau, Data Modeling, Data Warehousing, ETL, Statistical Analysis, Machine Learning, Data Visualization
 
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+**Development & Tools:**  
+HTML, CSS, JavaScript, Flask, Git, PowerPoint, JIRA, SAP (Basics)
 
----
-
-## 📈 Featured Project
-
-### 🔍 LinkedIn Job Trends Analyzer  
-*Time Period*
-
-- Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
-- Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
-- Project impacted 200+ students, with 37 successfully landing jobs using insights
-
-![LinkedIn Dashboard](/images/image1.png)
----
-
-## 🎓 Education
-
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
+**Soft Skills:**  
+Analytical Thinking, Communication, Problem Solving, Collaboration, Stakeholder Management, Continuous Learning
 
 ---
 
-## 📜 Certifications & Awards
+## Projects
 
-- Google Associate Data Practitioner Certificate  
-- Best Student Award – Classification of Healthcare Documents  
-- 4th Place – Data Analytics Hackathon (University-level)
+### Fire Extinguishing Prediction (Machine Learning)
+Built Logistic Regression, SVM, and XGBoost models to predict fire extinguishing outcomes using airflow, decibel levels, fuel type, and frequency. Performed hyperparameter tuning and evaluated the models using ROC–AUC, confusion matrix, and cross-validation.
 
----
-
-## ❤️ Volunteer Experience
-
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
+**Tech Stack:** Python, Scikit-learn, Pandas, XGBoost
 
 ---
 
-## 📬 Let’s Connect!
+### Insurance Amount Prediction from Car Damage (Deep Learning)
+Developed a CNN-based system to estimate vehicle insurance claim amounts by analyzing car damage images. Implemented preprocessing, model training, and deployment using Flask for automated claim evaluation.
 
-- 📧 Email: [Your Email]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
+**Tech Stack:** Python, TensorFlow/Keras, OpenCV, Flask
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
+### Multi-Disease Prediction Web App (Streamlit)
+Built an ML-driven application to predict Diabetes, Heart Disease, and Parkinson’s Disease using SVM models. Designed a Streamlit interface for real-time predictions based on user-input health parameters.
+
+**Tech Stack:** Python, Streamlit, SVM, Pandas
+
+---
+
+### 2015 US Airline Flight Delay Analysis (Power BI)
+Designed a Power BI dashboard analyzing 5.33M+ flight records across 322 airports and 14 airlines. Visualized delay causes, cancellation patterns, peak-time behaviours, and airline performance metrics.
+
+**Tech Stack:** Power BI, DAX, Power Query, Data Modeling
+
+---
+
+### Anime Analysis Dashboard (Power BI)
+Created a Power BI dashboard to explore data from 12K+ anime titles and 73K+ ratings. Included visualizations on genre trends, regional engagement, and popularity metrics through word clouds, geo-maps, and KPI visuals.
+
+**Tech Stack:** Power BI, DAX, Data Transformation
+
+---
+
+## Education
+
+**MBA – Information Technology**  
+Symbiosis Institute of Computer Science & Research, Pune (2024–2026) | Grade: 7.45
+
+**B.Tech – Computer Science & Business Systems**  
+MGIT, Hyderabad (2020–2024) | Grade: 7.22
+
+**Intermediate – MPC**  
+Sri Chaitanya College, Hyderabad (2017–2019) | 93.8%
+
+---
+
+## Certifications
+
+- PCAP: Programming Essentials in Python – Cisco  
+- Power BI Specialist – LinkedIn  
+- Tableau 2024.1 Essential Training – LinkedIn  
+- Excel from Beginner to Advanced – Udemy  
+- Excel for Business Simulation – Forage (Goldman Sachs)  
+- Data Visualization: Empowering Business with Effective Insights – Forage (TATA)  
+- Project Management – LinkedIn  
+
+---
+
+## Extracurricular Activities
+
+- Cultural Encounters COIL project participant (SICSR)  
+- Volunteer at Nirvana annual event (MGIT)  
+- Published a research project in the International Journal of Scientific Research in Engineering and Management (IJSREM)
+
+---
+
+## Connect With Me
+
+**Email:** b.aditya.741@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/aditya-beecha  
+**GitHub:** https://github.com/Adityabeecha  
+**Portfolio:** (Add GitHub Pages link once deployed)
+
+---
+
+Thank you for visiting my portfolio. Feel free to explore the repositories or reach out for collaboration.
+"""
