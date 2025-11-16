@@ -96,8 +96,7 @@ Sri Chaitanya College, Hyderabad (2017–2019) | 93.8%
 
 **Email:** b.aditya.741@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/aditya-beecha  
-**GitHub:** https://github.com/Adityabeecha  
-**Portfolio:** (Add GitHub Pages link once deployed)
+**GitHub:** https://github.com/Adityabeecha
 
 ---
 
